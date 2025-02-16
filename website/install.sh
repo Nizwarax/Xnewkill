@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Detail Hostibg File
-hosting="https://raw.githubusercontent.com/Nizwara/vpn/main/website"
+hosting="https://raw.githubusercontent.com/Nizwarax/Xnewkill/main/website"
 
 # Menginstall Package
 apt install apache2 php libapache2-mod-php -y
